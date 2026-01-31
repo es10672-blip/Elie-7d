@@ -1,18 +1,19 @@
 
+
 /* Change the background of the entire visible page */
 body {
-    background-color: #ff0000; /*   dakred */
+    background-color: #001eff; /*   dakred */
 }
 
 /* Style for all paragraphs */
 p {
     color: rgb(0, 0, 0);
-    font-size: 16px;
+    font-size: 30px;
     font-family:Ariel;
 }
 
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid rgb(0, 255, 21); /* Adds an orange border around the heading */
+    border: 2px solid rgb(232, 0, 0); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
